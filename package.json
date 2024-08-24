@@ -1,0 +1,25 @@
+{
+  "name": "alishba45-atm-project",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "atm-project": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "alishba",
+  "license": "MIT",
+  "dependencies": {
+    "alishba45-atm-project": "^1.0.1",
+    "inquire": "^0.4.8",
+    "inquirer": "^9.2.22",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "description": ""
+}
